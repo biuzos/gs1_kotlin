@@ -21,11 +21,12 @@
     </activity>
 
 
-  <fragment
-      android:id="@+id/fragment1"
-      android:name="br.com.fiap.gs1.Fragment1"
-      android:label="Fragment 1">
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="br.com.fiap.gs1.Fragment1"
+        android:label="Fragment 1">
+    </fragment>
 
-  </fragment>
+
 
 </navigation>
